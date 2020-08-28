@@ -1,6 +1,6 @@
 # Fitzroy Manager
 
-`Fitzroy Manager`는 대한민국 슈프림, 팰리스 편집샵 Fitzroy의 재고 및 고객 관리 툴이다. 클라이언트(Fitzroy 사장님) 의 요구로 엑셀 표, power query, power pivot, vba등을 활용하여 프로그램을 짜보았다.
+`Fitzroy Manager`는 대한민국 슈프림, 팰리스 편집샵 Fitzroy의 재고 및 고객 관리 툴이다. 클라이언트의 요구대로 엑셀을 이용하여 관리 툴을 구현해 보았다. 주로 엑셀 표, power query, power pivot, vba등을 적극 활용 하였다.
 
 ## fitzroy_manager.xlsm
 
